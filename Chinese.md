@@ -1,6 +1,6 @@
 # 👋🏻HI，我是baicai！
 
-[English](./README.md) | [中文](./Chinese.md)
+[English](/README.md) | [中文](/Chinese.md)
 
 💼 职业：
 
