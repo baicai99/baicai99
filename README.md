@@ -1,6 +1,6 @@
 # 👋🏻Hi, I'm baicai!
 
-[English](/README) | [中文](baicai99/baicai99/blob/main/Chinese.md)
+[English](/README) | [中文](/blob/main/Chinese.md)
 
 💼 Profession:
 
