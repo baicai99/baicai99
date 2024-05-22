@@ -1,29 +1,36 @@
-# 👋🏻Hi, I'm baicai!
+# 👋🏻 Hi, I'm Baicai!
 
-[English](/README) | [中文](/Chinese.md)
+[English](/README.md) | [中文](/Chinese.md)
 
-💼 Profession:
+🌐 Social Media:  
+[My Personal Website](https://www.zhengjiyuan.top) | [Douyin (China)](https://www.douyin.com/user/MS4wLjABAAAA478CnKTrQH1n87AkVVEPcwKV-MQsyUQwnxzGLDm_LA0) | [Xiaohongshu](https://www.xiaohongshu.com/user/profile/5fc2948e0000000001000b4e?xhsshare=CopyLink&appuid=5fc2948e0000000001000b4e&apptime=1716350434) | [liblib](https://www.liblib.art/userpage/c0e1c819d36c4bce9b077e04f9eaf693/publish/image) | [civitai](https://civitai.com/user/1637083533489/posts)
 
-- Graphic Designer
+## 💼 Company
+- HCK Husky Mini Fridge
 
-❤️ Interests:
+## ❤️ Interests
+- AIGC (AI-Generated Content)
+- Web Development
+- Data Visualization
+- Deep Learning
 
-- AIGC
-- Web Design
+## 🤖 Focus
+- Independent research and practice in Stable Diffusion, ComfyUI, Midjourney
+- LoRA creation
+- Exploring commercial applications of Stable Diffusion
+- Generating ultra-high-quality (high enough to see pores) human images
+- Experimenting and optimizing model parameters for image generation
+- Developing and integrating AIGC tools to enhance productivity
 
-🤖 Focus:
+## 🏗️ Current Focus
+- Researching commercial applications of ComfyUI
+- Using ComfyUI to quickly batch generate materials through IP-Adapter
+- Using ComfyUI for batch repair of full-body images
+- Building an optimized pipeline for Stable Diffusion
+- Creating tutorials and guides related to AIGC
 
-- Currently independently researching and practicing Stable Diffusion, ComfyUI, and Midjourney.
-- LoRA production.
-- Researching the commercialization of Stable Diffusion.
-- How to generate ultra-high-quality (HD to pore-level clarity) characters through Stable Diffusion.
-
-🏗️ Current Priorities:
-
-- Researching the commercialization of ComfyUI.
-- Using ComfyUI to quickly batch produce usable materials via IP-Adapter.
-- Using ComfyUI for batch body retouching.
-
-🌟 Skills:
-
+## 🌟 Skills
 - Vue3
+- HTML5
+- CSS3
+- Deep Learning Model Training and Optimization
