@@ -2,7 +2,7 @@
 
 [English](/README.md)｜[中文](/Chinese.md)
 
-🌐社交媒体：  
+## 🌐社交媒体：  
 [我的独立站](https://www.zhengjiyuan.top)｜[抖音（大陆）](https://www.douyin.com/user/MS4wLjABAAAA478CnKTrQH1n87AkVVEPcwKV-MQsyUQwnxzGLDm_LA0)｜[小红书](https://www.xiaohongshu.com/user/profile/5fc2948e0000000001000b4e?xhsshare=CopyLink&appuid=5fc2948e0000000001000b4e&apptime=1716350434)｜[liblib](https://www.liblib.art/userpage/c0e1c819d36c4bce9b077e04f9eaf693/publish/image)｜[civitai](https://civitai.com/user/1637083533489/posts)
 
 ## 💼 公司
