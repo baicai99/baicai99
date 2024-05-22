@@ -6,7 +6,7 @@
 [My Personal Website](https://www.zhengjiyuan.top) | [Douyin (China)](https://www.douyin.com/user/MS4wLjABAAAA478CnKTrQH1n87AkVVEPcwKV-MQsyUQwnxzGLDm_LA0) | [Xiaohongshu](https://www.xiaohongshu.com/user/profile/5fc2948e0000000001000b4e?xhsshare=CopyLink&appuid=5fc2948e0000000001000b4e&apptime=1716350434) | [liblib](https://www.liblib.art/userpage/c0e1c819d36c4bce9b077e04f9eaf693/publish/image) | [civitai](https://civitai.com/user/1637083533489/posts)
 
 ## 💼 Company
-- HCK Husky Mini Fridge
+- HCK
 
 ## ❤️ Interests
 - AIGC (AI-Generated Content)
