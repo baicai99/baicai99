@@ -1,28 +1,29 @@
-# 👋🏻 Hello, I'm baicai!
+# 👋🏻 你好，我是白菜！
 
-[English](/README.md)｜[中文](/Chinese.md)
+[English](/README.md)
 
-## 🌐 Social Media:
-[My personal website](https://www.zhengjiyuan.top)
+## 🌐社交媒体：  
+[我的独立站](https://www.zhengjiyuan.top)
 
-## 💼 Company
-- HCK Husky Ice Bar
+## 💼 公司
+- HCK 哈士奇冰吧
 
-## ❤️ Interests
-- Artificial Intelligence
-- Deep Learning
+## ❤️ 兴趣
+- 人工智能领域
+- 深度学习
 
-## 🤖 Focus
-- Further study in Deep Learning
-- Agent Development
+## 🤖 焦点
+- 进修深度学习内容
+- Agent 开发
 
-## 🌟 Skills
-- Deep Learning
-- Machine Learning
+## 🌟 技能
+- 深度学习
+- 机器学习
 - Vue3
 - React
 
-## 2025 TODO LIST
-- [ ] Learn Vector Databases
-- [ ] Build a Language Model from scratch
-- [ ] Set up an MCP Server
+## 2025年 TODO LIST
+- [ ] 学习向量数据
+- [ ] 学习 RAG
+- [ ] 从 0-1 搭建语言模型
+- [ ] 搭建一个 MCP 服务器
