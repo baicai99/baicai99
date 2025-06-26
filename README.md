@@ -20,14 +20,16 @@
  
 - 前端
   - Vue3
+
   - React19
+
+- 开发工具：Langchain、PyTorch、Transformers、MMlab、scikit-learn、matplotlib、numpy、pandas、seaborn、OpenCV、Dlib、albumentations、Neo4j、Surprise、RecMetrics、Gensim、Flask
 
 - 深度学习
   - **核心模型**：Transformer、GPT、BERT、CNN、LSTM、RNN、ViT、CLIP、Swin Transformer、Deformable Transformer、Medical Transformer、BEVFormer、LoFTR、Informer、GRU、MOE
   - **目标检测**：YOLO v5、Faster R-CNN、Mask R-CNN、DETR、Deformable DETR、EfficientDet、R-CNN
   - **经典架构**：ResNet、EfficientNet、MobileNet、DBNet、VGGNet、AlexNet、DarkNet、FPN、BiFPN
   - **图像分割**：U-Net、DeepLabV3+、Mask2Former、U²-Net
-  - **开发工具**：Langchain、PyTorch、Transformers、MMlab、scikit-learn、matplotlib、numpy、pandas、seaborn、OpenCV、Dlib、albumentations、Neo4j、Surprise、RecMetrics、Gensim、Flask
   - **视频处理**：SlowFast、R(2+1)D、C3D、Conv3D、R3D、R2D
   - **三维重建**：Depth Estimation、NeuralRecon、TSDF、SDF
   - **生成模型**：Diffusion、GAN、DALL-E、StarGAN、SRGAN、StarGAN-VC2
