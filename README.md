@@ -23,7 +23,7 @@
 
   - React19
 
-- 开发工具：Langchain、PyTorch、Transformers、MMlab、scikit-learn、matplotlib、numpy、pandas、seaborn、OpenCV、Dlib、albumentations、Neo4j、Surprise、RecMetrics、Gensim、Flask
+- 开发工具：LangGraph、Langchain、PyTorch、Transformers、MMlab、scikit-learn、matplotlib、numpy、pandas、seaborn、OpenCV、Dlib、albumentations、Neo4j、Surprise、RecMetrics、Gensim、Flask
 
 - 深度学习
   - **核心模型**：Transformer、GPT、BERT、CNN、LSTM、RNN、ViT、CLIP、Swin Transformer、Deformable Transformer、Medical Transformer、BEVFormer、LoFTR、Informer、GRU、MOE
@@ -51,7 +51,9 @@
 ## 2025年 TODO LIST
 - [x] 学习向量数据库
 - [x] 学习 RAG
-- [ ] LangChain
+- [x] LangChain
+- [x] LangGraph
+- [ ] 微调 qwen3
 - [ ] 从 0-1 搭建语言模型
 - [ ] 搭建一个 MCP 服务器
 - [ ] 基于 yolo 的罐头识别
