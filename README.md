@@ -3,16 +3,9 @@
 ## 🌐社交媒体：  
 [我的独立站](https://www.zhengjiyuan.top)
 
-## 💼 公司
-- HCK 哈士奇冰吧
-
 ## ❤️ 兴趣
 - 人工智能领域
 - 深度学习
-
-## 🤖 焦点
-- 进修深度学习内容
-- Agent 开发
 
 ## 🌟 技能
 - 语言
@@ -48,12 +41,13 @@
 - 图网络
   - GNN、GCN、T-GCN、SimGNN
 
-## 2025年 TODO LIST
+## 2026年 TODO LIST
+- [ ] FastAPI
+- [ ] MCP
+- [ ] skills
+- [ ] 使用 LangGraph 模仿 opencode
+- [ ] 使用 LangGraph 模仿 openclaw
 - [x] 学习向量数据库
 - [x] 学习 RAG
-- [x] LangChain
 - [x] LangGraph
-- [ ] 微调 qwen3
-- [ ] 从 0-1 搭建语言模型
-- [ ] 搭建一个 MCP 服务器
-- [ ] 基于 yolo 的罐头识别
+- [x] LangChain
