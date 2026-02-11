@@ -46,7 +46,7 @@
 - [ ] skills
 - [ ] 使用 LangGraph 模仿 opencode
 - [ ] 使用 LangGraph 模仿 openclaw
-- [ ] MCP
+- [x] MCP
 - [x] 学习向量数据库
 - [x] 学习 RAG
 - [x] LangGraph
