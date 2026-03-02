@@ -8,13 +8,11 @@
 - 深度学习
 
 ## 🌟 技能
-- 语言
-  - Python，Javascript，
+- 语言：Python，Javascript，
  
-- 前端
-  - Vue3
+- 前端：Vue3，React19
 
-  - React19
+- 后端：node.js,fastapi
 
 - 开发工具：LangGraph、Langchain、PyTorch、Transformers、MMlab、scikit-learn、matplotlib、numpy、pandas、seaborn、OpenCV、Dlib、albumentations、Neo4j、Surprise、RecMetrics、Gensim、Flask
 
@@ -42,10 +40,10 @@
   - GNN、GCN、T-GCN、SimGNN
 
 ## 2026年 TODO LIST
-- [ ] FastAPI
+- [x] FastAPI
 - [ ] skills
-- [ ] 使用 LangGraph 模仿 opencode
-- [ ] 使用 LangGraph 模仿 openclaw
+- [x] 使用 LangGraph 模仿 opencode
+- [x] 使用 LangGraph 模仿 openclaw
 - [x] MCP
 - [x] 学习向量数据库
 - [x] 学习 RAG
