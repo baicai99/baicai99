@@ -40,10 +40,7 @@
   - GNN、GCN、T-GCN、SimGNN
 
 ## 2026 年 TODO LIST
-- [ ] 使用 Agents SDK / Responses API 完成一个生产级 Agent
 - [ ] 独立实现一个 MCP Server，并接入到 Agent 系统
-- [ ] 为 Agent 系统补齐 Evals（离线集 + 回归测试）
-- [ ] 接入 tracing / metrics / logs，完成可观测性闭环
 - [ ] 学习并实践 PEFT / LoRA 微调
 - [ ] 学习并实践 SFT
 - [ ] 学习并实践 DPO 或 GRPO
