@@ -39,13 +39,15 @@
 - 图网络
   - GNN、GCN、T-GCN、SimGNN
 
-## 2026年 TODO LIST
-- [x] FastAPI
-- [ ] skills
-- [x] 使用 LangGraph 模仿 opencode
-- [x] 使用 LangGraph 模仿 openclaw
-- [x] MCP
+## 2026 年 TODO LIST
+
+- [x] 使用 Transformers 完成一个 LLM 的预训练实践
+- [x] 学习并掌握 FastAPI
+- [x] 学习并整理 Skills 体系
+- [x] 使用 LangGraph 复刻 OpenCode
+- [x] 使用 LangGraph 复刻 OpenClaw
+- [x] 学习并实践 MCP
 - [x] 学习向量数据库
 - [x] 学习 RAG
-- [x] LangGraph
-- [x] LangChain
+- [x] 学习 LangGraph
+- [x] 学习 LangChain
