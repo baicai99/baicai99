@@ -40,7 +40,17 @@
   - GNN、GCN、T-GCN、SimGNN
 
 ## 2026 年 TODO LIST
-
+- [ ] 使用 Agents SDK / Responses API 完成一个生产级 Agent
+- [ ] 独立实现一个 MCP Server，并接入到 Agent 系统
+- [ ] 为 Agent 系统补齐 Evals（离线集 + 回归测试）
+- [ ] 接入 tracing / metrics / logs，完成可观测性闭环
+- [ ] 学习并实践 PEFT / LoRA 微调
+- [ ] 学习并实践 SFT
+- [ ] 学习并实践 DPO 或 GRPO
+- [ ] 学习 chat template、数据清洗、训练样本设计
+- [ ] 使用 vLLM 部署一个本地 / 私有模型服务
+- [ ] 用 FastAPI + Docker 封装完整 AI 服务端
+- [ ] 做一个可上线的 AI 应用项目，包含鉴权、限流、日志、失败重试
 - [x] 使用 Transformers 完成一个 LLM 的预训练实践
 - [x] 学习并掌握 FastAPI
 - [x] 学习并整理 Skills 体系
