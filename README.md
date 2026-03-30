@@ -44,8 +44,6 @@
 - [x] 学习并实践 PEFT / LoRA 微调
 - [x] 学习并实践 SFT
 - [ ] 学习并实践 DPO 或 GRPO
-- [ ] 学习 chat template、数据清洗、训练样本设计
-- [ ] 使用 vLLM 部署一个本地 / 私有模型服务
 - [ ] 用 FastAPI + Docker 封装完整 AI 服务端
 - [ ] 做一个可上线的 AI 应用项目，包含鉴权、限流、日志、失败重试
 - [x] 使用 Transformers 完成一个 LLM 的预训练实践
