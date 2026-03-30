@@ -41,8 +41,8 @@
 
 ## 2026 年 TODO LIST
 - [ ] 独立实现一个 MCP Server，并接入到 Agent 系统
-- [ ] 学习并实践 PEFT / LoRA 微调
-- [ ] 学习并实践 SFT
+- [x] 学习并实践 PEFT / LoRA 微调
+- [x] 学习并实践 SFT
 - [ ] 学习并实践 DPO 或 GRPO
 - [ ] 学习 chat template、数据清洗、训练样本设计
 - [ ] 使用 vLLM 部署一个本地 / 私有模型服务
