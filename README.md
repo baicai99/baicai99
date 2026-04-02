@@ -39,16 +39,14 @@
 - 图网络
   - GNN、GCN、T-GCN、SimGNN
 
-## 2026 年 TODO LIST
-- [ ] 独立实现一个 MCP Server，并接入到 Agent 系统
+## 学习内容
+- [x] 独立实现一个 MCP Server
 - [x] 学习并实践 PEFT / LoRA 微调
 - [x] 学习并实践 SFT
 - [x] 学习 DPO
-- [ ] 用 FastAPI + Docker 封装完整 AI 服务端
-- [x] 做一个可上线的 AI 应用项目，包含鉴权、限流、日志、失败重试
 - [x] 使用 Transformers 完成一个 LLM 的预训练实践
-- [x] 学习并掌握 FastAPI
-- [x] 学习并整理 Skills 体系
+- [x] 学习 FastAPI
+- [x] 学习 Skills 体系
 - [x] 使用 LangGraph 复刻 OpenCode
 - [x] 使用 LangGraph 复刻 OpenClaw
 - [x] 学习并实践 MCP
