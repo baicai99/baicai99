@@ -40,6 +40,7 @@
   - GNN、GCN、T-GCN、SimGNN
 
 ## 学习内容
+- [x] 学习 harness engineeing
 - [x] 独立实现一个 MCP Server
 - [x] 学习并实践 PEFT / LoRA 微调
 - [x] 学习并实践 SFT
